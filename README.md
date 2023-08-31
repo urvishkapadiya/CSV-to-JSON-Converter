@@ -8,13 +8,13 @@ CSV2JSON enables you to convert CSV files, commonly used for tabular data, into 
 
 **Features**
 
-Exception Handling: CSV2JSON incorporates robust exception handling to ensure smooth data conversion. Invalid data, missing attributes, and incomplete records are handled gracefully, providing informative error messages.
+1. Exception Handling: CSV2JSON incorporates robust exception handling to ensure smooth data conversion. Invalid data, missing attributes, and incomplete records are handled gracefully, providing informative error messages.
 
-Flexible Attribute Handling: CSV2JSON is designed to accommodate various attributes in your CSV files. It adapts to changes in attribute names while maintaining the data's integrity.
+2. Flexible Attribute Handling: CSV2JSON is designed to accommodate various attributes in your CSV files. It adapts to changes in attribute names while maintaining the data's integrity.
 
-Comprehensive Logging: Any issues encountered during the conversion process are logged for reference. This feature helps in tracking and resolving data inconsistencies.
+3. Comprehensive Logging: Any issues encountered during the conversion process are logged for reference. This feature helps in tracking and resolving data inconsistencies.
 
-User-Friendly Interface: The program interacts with users through clear and informative prompts. It guides users in providing valid input and selecting the desired JSON files for display.
+4. User-Friendly Interface: The program interacts with users through clear and informative prompts. It guides users in providing valid input and selecting the desired JSON files for display.
 
 **How to Use** 
 
